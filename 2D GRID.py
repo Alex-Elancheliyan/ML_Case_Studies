@@ -29,7 +29,7 @@ def find_path(grid, start, goal):
     path.reverse()
     return path
 
-#driver code
+#DRIVER CODE
 grid = [
     [0, 1, 0, 0, 0],
     [0, 0, 0, 1, 0],
