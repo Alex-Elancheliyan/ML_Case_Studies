@@ -8,7 +8,7 @@ g = Graph()
 ontology_file = "common_sense_ontology.ttl"
 g.parse(ontology_file, format="turtle")
 
-# Define namespaces
+#Define namespaces
 ns = dict(
     ex=g.namespace_manager.absolutize("ex:", None),
     rdf=g.namespace_manager.absolutize("rdf:", None),
