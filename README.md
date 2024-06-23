@@ -6,7 +6,7 @@ This repository contains case study workout files completed during the Machine L
 
 ## Case Studies
 
-### Housing_Data
+### Housing Data
 
 - **Description**: Analyzing housing data to predict housing prices using machine learning regression techniques.
 
