@@ -1,5 +1,5 @@
 from collections import deque
-#PATH FINDING using breadth first searvh algorithm
+#PATH FINDING using breadth first search algorithm
 def find_path(grid, start, goal):
     queue = deque()   #collection
     queue.append(start)
